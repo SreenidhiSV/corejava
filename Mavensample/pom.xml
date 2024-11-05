@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Maven/Mavensample</mainClass>
+							<mainClass>Maven/SimpleMaven</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
